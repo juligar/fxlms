@@ -1,6 +1,6 @@
-Filtered-x LMS algorithm simulation in Python
-Sample by sample
-Instead of using np.convolve we are manually performing the convolutions for each transfer path.
+Filtered-x LMS algorithm simulation in Python/
+Sample by sample/
+Instead of using np.convolve we are manually performing the convolutions for each transfer path/
 Initialization Parameters:
 N=4000
 L=10
